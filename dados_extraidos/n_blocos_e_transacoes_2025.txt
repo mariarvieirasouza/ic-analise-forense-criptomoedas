@@ -1,0 +1,54 @@
+Janeiro:
+0 a 1500 blocos: 4211086 transações
+1500 a 3000 blocos: 3898213 transações
+3000 a 4441 blocos: 3450674 transações 
+Total: 4441 blocos e 11.559.973 transações
+Wasabi: 3769
+JoinMarket: 2013
+
+Fevereiro:
+0 a 1500 blocos: 3828113 transações
+1500 a 3000 blocos: 4035068 transações
+3000 a 4089 blocos: 3506665 transações
+Total: 4089 blocos e 11.369.846 transações
+Wasabi: 2713
+JoinMarket: 1082
+
+Março:
+0 a 1500 blocos: 3378511 transações
+1500 a 3000 blocos: 4332182 transações
+3000 a 4542 blocos: 4315310 transações 
+Total: 4542 blocos e 12.026.003 transações
+Wasabi: 4174
+JoinMarket: 1162
+
+Abril:
+0 a 1500 blocos: 3421872 transações
+1500 a 3000 blocos: 4895273 transações
+3000 a 4344 blocos: 4103781 transações
+Total: 4344 blocos e 12.420.926 transações
+Wasabi: 4123
+JoinMarket: 1070
+
+Maio:
+0 a 1500 blocos: 3534806 transações
+1500 a 3000 blocos: 4257286 transações
+3000 a 4622 blocos: 4344503 transações
+Total: 4622 blocos e 12.136.595 transações
+Wasabi: 4511
+JoinMarket: 1470
+
+Junho:
+0 a 1500 blocos: 3534566 transações 
+1500 a 3000 blocos: 3662988 transações
+3000 a 4026 blocos: 2687493 transações
+Total: 4026 blocos e 9.885.047 transações
+Wasabi: 4066
+JoinMarket: 1821
+
+
+
+#junho de 2019 com wasabi 1.0 e 1.1:
+#analisadas: 5300369 + 5171721
+#wasabi: 555
+#blocos: 4517

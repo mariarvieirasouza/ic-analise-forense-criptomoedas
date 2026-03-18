@@ -1,0 +1,117 @@
+Análise Wasabi:
+Resumo das estatísticas:
+MÊS: 2025-01
+Média Transações/Dia: 121.06451612903226
+Média BTC Mixado/TX:  12.879516503453768
+Média Endereços IN/TX: 72.49978173318665
+Média Endereços OUT/TX: 80.62309011721038
+Média Reuso Global/TX: 61.26358162321589
+Média Reuso Interno/TX: 1.4318969175381424
+------------------------------
+MÊS: 2025-02
+Média Transações/Dia: 97.0
+Média BTC Mixado/TX:  8.90148236828719
+Média Endereços IN/TX: 74.89882066196948
+Média Endereços OUT/TX: 85.25060754026869
+Média Reuso Global/TX: 66.7848836868041
+Média Reuso Interno/TX: 0.7987489958741678
+------------------------------
+MÊS: 2025-03
+Média Transações/Dia: 134.3548387096774
+Média BTC Mixado/TX:  7.980914489056732
+Média Endereços IN/TX: 68.80593073516273
+Média Endereços OUT/TX: 78.19072189951217
+Média Reuso Global/TX: 61.59306083268862
+Média Reuso Interno/TX: 1.3456101834344725
+------------------------------
+MÊS: 2025-04
+Média Transações/Dia: 137.66666666666666
+Média BTC Mixado/TX:  10.029389571074264
+Média Endereços IN/TX: 76.9555161450791
+Média Endereços OUT/TX: 90.88481410810232
+Média Reuso Global/TX: 67.869776530248
+Média Reuso Interno/TX: 2.096766404359801
+------------------------------
+MÊS: 2025-05
+Média Transações/Dia: 145.38709677419354
+Média BTC Mixado/TX:  10.23807897782641
+Média Endereços IN/TX: 79.08668305600074
+Média Endereços OUT/TX: 92.08558145506154
+Média Reuso Global/TX: 70.5689570244885
+Média Reuso Interno/TX: 3.3348562814472102
+------------------------------
+MÊS: 2025-06
+Média Transações/Dia: 135.73333333333332
+Média BTC Mixado/TX:  10.322867690572563
+Média Endereços IN/TX: 78.92657587854987
+Média Endereços OUT/TX: 92.85055108107217
+Média Reuso Global/TX: 62.89429350016948
+Média Reuso Interno/TX: 8.234597053417021
+------------------------------
+MÊS: 2025-07
+Média Transações/Dia: 13.0
+Média BTC Mixado/TX:  11.319814280769233
+Média Endereços IN/TX: 81.23076923076923
+Média Endereços OUT/TX: 86.15384615384616
+Média Reuso Global/TX: 28.23076923076923
+Média Reuso Interno/TX: 0.7692307692307693
+------------------------------
+
+Análise Joinmarket:
+Resumo das estatísticas:
+MÊS: 2025-01
+Média Transações/Dia: 64.74193548387096
+Média BTC Mixado/TX:  6.303730720208317
+Média Endereços IN/TX: 13.271817053194361
+Média Endereços OUT/TX: 10.083724322711873
+Média Reuso Global/TX: 5.51409912075947
+Média Reuso Interno/TX: 4.761540687132629
+------------------------------
+MÊS: 2025-02
+Média Transações/Dia: 38.714285714285715
+Média BTC Mixado/TX:  12.114052975364883
+Média Endereços IN/TX: 17.00245578718273
+Média Endereços OUT/TX: 11.397761085454528
+Média Reuso Global/TX: 7.2658797975393465
+Média Reuso Interno/TX: 5.393162250175761
+------------------------------
+MÊS: 2025-03
+Média Transações/Dia: 37.41935483870968
+Média BTC Mixado/TX:  8.640090983428006
+Média Endereços IN/TX: 18.497462198779335
+Média Endereços OUT/TX: 11.654316070706292
+Média Reuso Global/TX: 7.226284813869224
+Média Reuso Interno/TX: 4.99835407368259
+------------------------------
+MÊS: 2025-04
+Média Transações/Dia: 35.833333333333336
+Média BTC Mixado/TX:  6.971214064190485
+Média Endereços IN/TX: 20.830415942155884
+Média Endereços OUT/TX: 13.378843245659652
+Média Reuso Global/TX: 6.651823607587399
+Média Reuso Interno/TX: 8.355562545357005
+------------------------------
+MÊS: 2025-05
+Média Transações/Dia: 47.193548387096776
+Média BTC Mixado/TX:  22.360880424646364
+Média Endereços IN/TX: 17.376565137993534
+Média Endereços OUT/TX: 8.747905001849396
+Média Reuso Global/TX: 6.389278483176856
+Média Reuso Interno/TX: 9.10038820682992
+------------------------------
+MÊS: 2025-06
+Média Transações/Dia: 60.733333333333334
+Média BTC Mixado/TX:  3.6429673090956274
+Média Endereços IN/TX: 14.0852191327956
+Média Endereços OUT/TX: 8.278611437263708
+Média Reuso Global/TX: 5.898373525702924
+Média Reuso Interno/TX: 6.042752741229373
+------------------------------
+MÊS: 2025-07
+Média Transações/Dia: 7.0
+Média BTC Mixado/TX:  0.7757278414285714
+Média Endereços IN/TX: 18.428571428571427
+Média Endereços OUT/TX: 16.142857142857142
+Média Reuso Global/TX: 5.142857142857143
+Média Reuso Interno/TX: 9.857142857142858
+------------------------------
